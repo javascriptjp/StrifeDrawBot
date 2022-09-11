@@ -1,0 +1,945 @@
+{
+    "Serenity Auto Rifle": {
+        "Emperor Mod": 42,
+        "Warlord Mod": 52
+    },
+    "F44 Dominance": {
+        "Emperor Mod": 35,
+        "Warlord Mod": 45
+    },
+    "Warmonger": {
+        "Emperor Mod": 38,
+        "Warlord Mod": 48
+    },
+    "WOUND Auto Rifle": {
+        "Emperor Mod": 30,
+        "Warlord Mod": 40
+    },
+    "AVG Auto Rifle": {
+        "Emperor Mod": 35,
+        "Warlord Mod": 45
+    },
+    "XR-4 Auto Rifle": {
+        "Emperor Mod": 32,
+        "Warlord Mod": 42
+    },
+    "MR-94 Gargoyle": {
+        "Emperor Mod": 42,
+        "Warlord Mod": 52
+    },
+    "M2002": {
+        "Emperor Mod": 40,
+        "Warlord Mod": 50
+    },
+    "UDON-SKP Automana": {
+        "Emperor Mod": 40,
+        "Warlord Mod": 50
+    },
+    "MR-4 Smokey": {
+        "Emperor Mod": 46,
+        "Warlord Mod": 56
+    },
+    "MR-12 Automana": {
+        "Emperor Mod": 40,
+        "Warlord Mod": 50
+    },
+    "Harbinger Auto Rifle": {
+        "Emperor Mod": 40,
+        "Warlord Mod": 50
+    },
+    "JAME Manaburst Rifle": {
+        "Emperor Mod": 34,
+        "Warlord Mod": 44
+    },
+    "MR-52 Cyclone": {
+        "Emperor Mod": 40,
+        "Warlord Mod": 50
+    },
+    "FAZZI Automana": {
+        "Emperor Mod": 40,
+        "Warlord Mod": 50
+    },
+    "Gerard Auto Rifle": {
+        "Emperor Mod": 32,
+        "Warlord Mod": 42
+    },
+    "Hopekeeper": {
+        "Emperor Mod": 35,
+        "Warlord Mod": 55
+    },
+    "Twinvision Rifle": {
+        "Emperor Mod": 35,
+        "Warlord Mod": 45
+    },
+    "Lexxi Burst Rifle": {
+        "Emperor Mod": 34,
+        "Warlord Mod": 44
+    },
+    "GEO Mana Rifle": {
+        "Emperor Mod": 40,
+        "Warlord Mod": 50
+    },
+    "Cilzret Fullauto": {
+        "Emperor Mod": 21,
+        "Warlord Mod": 23
+    },
+    "MRC-1 Silvermist": {
+        "Emperor Mod": 36,
+        "Warlord Mod": 46
+    },
+    "AK Rifle": {
+        "Emperor Mod": 40,
+        "Warlord Mod": 50
+    },
+    "Type 89": {
+        "Emperor Mod": 30,
+        "Warlord Mod": 40
+    },
+    "Starfaller": {
+        "Emperor Mod": 40,
+        "Warlord Mod": 50
+    },
+    "A-12 Plastic Rifle": {
+        "Emperor Mod": 48,
+        "Warlord Mod": 58
+    },
+    "The Shooting Star": {
+        "Emperor Mod": 42,
+        "Warlord Mod": 52
+    },
+    "NURF Water Rifle": {
+        "Emperor Mod": 34,
+        "Warlord Mod": 44
+    },
+    "Ouroboros AR": {
+        "Emperor Mod": 36,
+        "Warlord Mod": 46
+    },
+    "MR-89 Doubletail": {
+        "Emperor Mod": 34,
+        "Warlord Mod": 44
+    },
+    "Tyrant Automana": {
+        "Emperor Mod": 30,
+        "Warlord Mod": 40
+    },
+    "MDR": {
+        "Emperor Mod": 60,
+        "Warlord Mod": 70
+    },
+    "Hamlock AR": {
+        "Emperor Mod": 34,
+        "Warlord Mod": 44
+    },
+    "Warewolf AR": {
+        "Emperor Mod": 30,
+        "Warlord Mod": 40
+    },
+    "Divine Long Bow": {
+        "Emperor Mod": 32,
+        "Warlord Mod": 42
+    },
+    "GROUZA": {
+        "Emperor Mod": 40,
+        "Warlord Mod": 50
+    },
+    "VK-74 FLETLINE": {
+        "Emperor Mod": 30,
+        "Warlord Mod": 40
+    },
+    "Golden AK": {
+        "Emperor Mod": 40,
+        "Warlord Mod": 50
+    },
+
+    "Windmaker": {
+        "Emperor Mod": 40,
+        "Warlord Mod": 55
+    },
+    "FW-5 Azuris PDW": {
+        "Emperor Mod": 55,
+        "Warlord Mod": 70
+    },
+    "XS-5 Nether Beatle": {
+        "Emperor Mod": 45,
+        "Warlord Mod": 60
+    },
+    "Rogue's Shooter": {
+        "Emperor Mod": 57,
+        "Warlord Mod": 72
+    },
+    "Victory": {
+        "Emperor Mod": 50,
+        "Warlord Mod": 65
+    },
+    "Anarchy": {
+        "Emperor Mod": 52,
+        "Warlord Mod": 67
+    },
+    "Envy": {
+        "Emperor Mod": 48,
+        "Warlord Mod": 63
+    },
+    "Nox SMG": {
+        "Emperor Mod": 47,
+        "Warlord Mod": 62
+    },
+    "XS-21 Pandora PDW": {
+        "Emperor Mod": 60,
+        "Warlord Mod": 75
+    },
+    "P9000 Mana PDW": {
+        "Emperor Mod": 75,
+        "Warlord Mod": 90
+    },
+    "GG36 SMG": {
+        "Emperor Mod": 55,
+        "Warlord Mod": 70
+    },
+    "Type6 Hicycle PDW": {
+        "Emperor Mod": 80,
+        "Warlord Mod": 95
+    },
+    "Lynn SMG": {
+        "Emperor Mod": 33,
+        "Warlord Mod": 48
+    },
+    "Gabriel PDW": {
+        "Emperor Mod": 60,
+        "Warlord Mod": 75
+    },
+    "Hystis 535": {
+        "Emperor Mod": 61,
+        "Warlord Mod": 76
+    },
+    "K92 Tiamat": {
+        "Emperor Mod": 35,
+        "Warlord Mod": 50
+    },
+    "H.E.A.T 5": {
+        "Emperor Mod": 75,
+        "Warlord Mod": 90
+    },
+    "PP90N1 Dummy's": {
+        "Emperor Mod": 80,
+        "Warlord Mod": 95
+    },
+    "K95 Basilisk": {
+        "Emperor Mod": 37,
+        "Warlord Mod": 52
+    },
+    "VMT-2 Mice SMG": {
+        "Emperor Mod": 67,
+        "Warlord Mod": 82
+    },
+    "Brigit, the bringer of flame": {
+        "Emperor Mod": 126,
+        "Warlord Mod": 141
+    },
+    "X-1 Ammit": {
+        "Emperor Mod": 75,
+        "Warlord Mod": 90
+    },
+    "The Bumblebee": {
+        "Emperor Mod": 53,
+        "Warlord Mod": 68
+    },
+    "Doorknocker": {
+        "Emperor Mod": 57,
+        "Warlord Mod": 72
+    },
+    "Silent Treatment": {
+        "Emperor Mod": 40,
+        "Warlord Mod": 45
+    },
+    "Thousand Cut": {
+        "Emperor Mod": 80,
+        "Warlord Mod": 95
+    },
+    "Brawler Burst PDW": {
+        "Emperor Mod": 30,
+        "Warlord Mod": 35
+    },
+
+    "Mellowwood": {
+        "Emperor Mod": "13",
+        "Warlord Mod": "13"
+    },
+    "Moon Night": {
+        "Emperor Mod": "14",
+        "Warlord Mod": "20"
+    },
+    "Barnett the Deathbringer": {
+        "Emperor Mod": "6",
+        "Warlord Mod": "10"
+    },
+    "ENT Sniper Rifle": {
+        "Emperor Mod": "14",
+        "Warlord Mod": "10"
+    },
+    "Shadowvein": {
+        "Emperor Mod": "6",
+        "Warlord Mod": "9"
+    },
+    "Endseeker": {
+        "Emperor Mod": "7",
+        "Warlord Mod": "10"
+    },
+    "Knightfall": {
+        "Emperor Mod": "12",
+        "Warlord Mod": "12"
+    },
+    "Ironbark Sniper Rifle": {
+        "Emperor Mod": "15",
+        "Warlord Mod": "11"
+    },
+    "Syndra's Bow": {
+        "Emperor Mod": "15",
+        "Warlord Mod": "11"
+    },
+    "Minerva Anti-matter Rifle": {
+        "Emperor Mod": "17",
+        "Warlord Mod": "22"
+    },
+    "UDED Rail Rifle": {
+        "Emperor Mod": "6",
+        "Warlord Mod": "9"
+    },
+    "Rabbit Silencer": {
+        "Emperor Mod": "14",
+        "Warlord Mod": "14"
+    },
+    "EFX Photon Compressor": {
+        "Emperor Mod": "5",
+        "Warlord Mod": "8"
+    },
+    "Flying Serpent": {
+        "Emperor Mod": "19",
+        "Warlord Mod": "21"
+    },
+    "Colubrid .75CAL": {
+        "Emperor Mod": "4",
+        "Warlord Mod": "7"
+    },
+    "Hunting Rifle": {
+        "Emperor Mod": "4",
+        "Warlord Mod": "7"
+    },
+    "Lisrithe, Life and the Eternal Rest": {
+        "Emperor Mod": "3",
+        "Warlord Mod": "3"
+    },
+    "Lisrithe's Wish": {
+        "Emperor Mod": "3",
+        "Warlord Mod": "3"
+    },
+    "Devil's Whisper": {
+        "Emperor Mod": "14",
+        "Warlord Mod": "14"
+    },
+    "Phobia SR-22": {
+        "Emperor Mod": "22",
+        "Warlord Mod": "27"
+    },
+    "Pierce Sniper Rifle": {
+        "Emperor Mod": "4",
+        "Warlord Mod": "7"
+    },
+    "Trueflight Bow": {
+        "Emperor Mod": "1",
+        "Warlord Mod": "1"
+    },
+    "The Zomzeozy": {
+        "Emperor Mod": "1",
+        "Warlord Mod": "1"
+    },
+    "Wingmen": {
+        "Emperor Mod": "5",
+        "Warlord Mod": "11"
+    },
+    "Car98k": {
+        "Emperor Mod": "6",
+        "Warlord Mod": "9"
+    },
+    "Skullcrusher": {
+        "Emperor Mod": "15",
+        "Warlord Mod": "15"
+    },
+    "RSK Sniper Rifle": {
+        "Emperor Mod": "8",
+        "Warlord Mod": "11"
+    },
+    "M850 Smogg Sniper Rifle": {
+        "Emperor Mod": "9",
+        "Warlord Mod": "10"
+    },
+    "PMG Hekate II": {
+        "Emperor Mod": "8",
+        "Warlord Mod": "12"
+    },
+    "Third Eye DMR": {
+        "Emperor Mod": "22",
+        "Warlord Mod": "24"
+    },
+    "Horizon Rifle": {
+        "Emperor Mod": "22",
+        "Warlord Mod": "24"
+    },
+    "Graveless DMR": {
+        "Emperor Mod": "27",
+        "Warlord Mod": "29"
+    },
+    "Coldfang DMR": {
+        "Emperor Mod": "19",
+        "Warlord Mod": "17"
+    },
+    "Helheim DMR": {
+        "Emperor Mod": "29",
+        "Warlord Mod": "31"
+    },
+    "Mark7 EBR": {
+        "Emperor Mod": "19",
+        "Warlord Mod": "21"
+    },
+
+    "Kali Magic Launcher": {
+        "Emperor Mod": "2",
+        "Warlord Mod": "4"
+    },
+    "MK20 Mana Waster": {
+        "Emperor Mod": "320",
+        "Warlord Mod": "600"
+    },
+    "Trauma": {
+        "Emperor Mod": "13",
+        "Warlord Mod": "16"
+    },
+    "GL90 Warbringer": {
+        "Emperor Mod": "7",
+        "Warlord Mod": "12"
+    },
+    "HLL Magic Launcher": {
+        "Emperor Mod": "2",
+        "Warlord Mod": "4"
+    },
+    "Love Launcher": {
+        "Emperor Mod": "2",
+        "Warlord Mod": "4"
+    },
+    "F52 Ifrit Pigcooker": {
+        "Emperor Mod": "220",
+        "Warlord Mod": "400"
+    },
+    "F60 Ignis Firestarter": {
+        "Emperor Mod": "120",
+        "Warlord Mod": "300"
+    },
+    "Brugo Homing Missile": {
+        "Emperor Mod": "5",
+        "Warlord Mod": "8"
+    },
+    "S.O.L Rocket Launcher": {
+        "Emperor Mod": "5",
+        "Warlord Mod": "7"
+    },
+    "Ragnis Rocket Launcher": {
+        "Emperor Mod": "2",
+        "Warlord Mod": "4"
+    },
+    "GL3 Handy Mortar": {
+        "Emperor Mod": "10",
+        "Warlord Mod": "15"
+    },
+    "Keg Bomb": {
+        "Emperor Mod": "10",
+        "Warlord Mod": "15"
+    },
+    "Rania's Crossbow": {
+        "Emperor Mod": "3",
+        "Warlord Mod": "8"
+    },
+    "Vely's Party Cracker": {
+        "Emperor Mod": "4",
+        "Warlord Mod": "6"
+    },
+    "Rania's Javelin": {
+        "Emperor Mod": "4",
+        "Warlord Mod": "9"
+    },
+    "T-X Homing Nuke": {
+        "Emperor Mod": "3",
+        "Warlord Mod": "6"
+    },
+    "AWR Gatling Laser": {
+        "Emperor Mod": "170",
+        "Warlord Mod": "450"
+    },
+    "T-X01 Anti-matter Missile": {
+        "Emperor Mod": "2",
+        "Warlord Mod": "4"
+    },
+    "Golembreaker": {
+        "Emperor Mod": "2",
+        "Warlord Mod": "4"
+    },
+    "Rubber Shuriken": {
+        "Emperor Mod": "1",
+        "Warlord Mod": "1"
+    },
+    "The Bazooka": {
+        "Emperor Mod": "5",
+        "Warlord Mod": "7"
+    },
+    "Princess Crossbow": {
+        "Emperor Mod": "2",
+        "Warlord Mod": "6"
+    },
+    "Rania's Chocolate Javelin": {
+        "Emperor Mod": "4",
+        "Warlord Mod": "9"
+    },
+    "Vateth Homing Missile": {
+        "Emperor Mod": "11",
+        "Warlord Mod": "14"
+    },
+    "Kerkox Mana Scroller": {
+        "Emperor Mod": "10",
+        "Warlord Mod": "16"
+    },
+    "Jikill Sonic Launcher": {
+        "Emperor Mod": "7",
+        "Warlord Mod": "10"
+    },
+    "The Eliminator": {
+        "Emperor Mod": "5",
+        "Warlord Mod": "7"
+    },
+    "PKB-8004": {
+        "Emperor Mod": "14",
+        "Warlord Mod": "19"
+    },
+    "GL 88 Carpet Bomber": {
+        "Emperor Mod": "8",
+        "Warlord Mod": "11"
+    },
+    "Hi-K0 Launcher": {
+        "Emperor Mod": "7",
+        "Warlord Mod": "10"
+    },
+    "Hi-K0 Launcher 2021": {
+        "Emperor Mod": "1",
+        "Warlord Mod": "1"
+    },
+    "Tempest Grenade Launcher": {
+        "Emperor Mod": "9",
+        "Warlord Mod": "14"
+    },
+    "The Deathmachine": {
+        "Emperor Mod": "2",
+        "Warlord Mod": "4"
+    },
+    "Spear of Judgement": {
+        "Emperor Mod": "4",
+        "Warlord Mod": "6"
+    },
+    "TN-43 Remote TNT": {
+        "Emperor Mod": "10",
+        "Warlord Mod": "15"
+    },
+    "TX-500 Amber Cannon": {
+        "Emperor Mod": "7",
+        "Warlord Mod": "10"
+    },
+
+    "XL9 Mozer": {
+        "Emperor Mod": "85",
+        "Warlord Mod": "100"
+    },
+    "TT66 Doom LMG": {
+        "Emperor Mod": "100",
+        "Warlord Mod": "280"
+    },
+    "MK4 Machine Gun": {
+        "Emperor Mod": "120",
+        "Warlord Mod": "300"
+    },
+    "M757 Cleaner LMG": {
+        "Emperor Mod": "85",
+        "Warlord Mod": "265"
+    },
+    "MG-80 Heavy Machinegun": {
+        "Emperor Mod": "85",
+        "Warlord Mod": "265"
+    },
+    "M9190 Beehive": {
+        "Emperor Mod": "100",
+        "Warlord Mod": "280"
+    },
+    "MK18 Leaf Cleaner": {
+        "Emperor Mod": "95",
+        "Warlord Mod": "275"
+    },
+    "MK7 Baretooth": {
+        "Emperor Mod": "95",
+        "Warlord Mod": "275"
+    },
+    "TT4 Nefaris LMG": {
+        "Emperor Mod": "70",
+        "Warlord Mod": "85"
+    },
+    "Gorgon 114 LMG": {
+        "Emperor Mod": "170",
+        "Warlord Mod": "350"
+    },
+    "PBP-14": {
+        "Emperor Mod": "140",
+        "Warlord Mod": "320"
+    },
+    "Brutus MG": {
+        "Emperor Mod": "105",
+        "Warlord Mod": "285"
+    },
+    "Silverstein MG": {
+        "Emperor Mod": "80",
+        "Warlord Mod": "260"
+    },
+    "M666 Spatfire": {
+        "Emperor Mod": "55",
+        "Warlord Mod": "60"
+    },
+    "GILT Hypercycle LMG": {
+        "Emperor Mod": "80",
+        "Warlord Mod": "180"
+    },
+
+    "Shepherd 055": {
+        "Emperor Mod": "42:2",
+        "Warlord Mod": "52:4"
+    },
+    "Fiendsbreath Carbine": {
+        "Emperor Mod": "35:4",
+        "Warlord Mod": "45:7"
+    },
+    "Gritt Carbine": {
+        "Emperor Mod": "38:2",
+        "Warlord Mod": "48:4"
+    },
+    "CARB-7": {
+        "Emperor Mod": "36:20",
+        "Warlord Mod": "46:30"
+    },
+    "Maelstrom Carbine": {
+        "Emperor Mod": "34:2",
+        "Warlord Mod": "44:5"
+    },
+    "Bayou Short Rifle": {
+        "Emperor Mod": "42:6",
+        "Warlord Mod": "52:11"
+    },
+    "ECR-11 Carbine": {
+        "Emperor Mod": "42:20",
+        "Warlord Mod": "52:30"
+    },
+    "Hellhound Short Rifle": {
+        "Emperor Mod": "36:4",
+        "Warlord Mod": "46:6"
+    },
+    "Varg G5": {
+        "Emperor Mod": "46:1",
+        "Warlord Mod": "56:1"
+    },
+    "Chimaera CQB": {
+        "Emperor Mod": "36:21",
+        "Warlord Mod": "46:23"
+    },
+
+    "Staff of Cursing": {
+        "Emperor Mod": "4",
+        "Warlord Mod": "7"
+    },
+    "Staff of Glorious": {
+        "Emperor Mod": "1",
+        "Warlord Mod": "1"
+    },
+    "Arcane Bomb": {
+        "Emperor Mod": "6",
+        "Warlord Mod": "9"
+    },
+    "Worldender": {
+        "Emperor Mod": "4",
+        "Warlord Mod": "7"
+    },
+    "Pumpkin Wand": {
+        "Emperor Mod": "6",
+        "Warlord Mod": "8"
+    },
+    "Staff of Eda": {
+        "Emperor Mod": "4",
+        "Warlord Mod": "6"
+    },
+    "Staff of Vesta": {
+        "Emperor Mod": "4",
+        "Warlord Mod": "6"
+    },
+    "Rod": {
+        "Emperor Mod": "2",
+        "Warlord Mod": "5"
+    },
+    "Staff of Sorrow": {
+        "Emperor Mod": "7",
+        "Warlord Mod": "10"
+    },
+    "Nahhra, Devourer of Worlds": {
+        "Emperor Mod": "20",
+        "Warlord Mod": "20"
+    },
+    "Aconi, Fifth Element of the Arctic": {
+        "Emperor Mod": "7",
+        "Warlord Mod": "7"
+    },
+    "Staff of Zisca": {
+        "Emperor Mod": "25",
+        "Warlord Mod": "30"
+    },
+    "Phantom Bolt": {
+        "Emperor Mod": "1",
+        "Warlord Mod": "1"
+    },
+    "Staff of Release": {
+        "Emperor Mod": "1",
+        "Warlord Mod": "1"
+    },
+    "Staff of Spirit": {
+        "Emperor Mod": "1",
+        "Warlord Mod": "1"
+    },
+    "Grim Reaper": {
+        "Emperor Mod": "26",
+        "Warlord Mod": "44"
+    },
+    "Staff of Barrage": {
+        "Emperor Mod": "21",
+        "Warlord Mod": "32"
+    },
+    "Staff of Elna": {
+        "Emperor Mod": "1",
+        "Warlord Mod": "1"
+    },
+    "Kyugetu": {
+        "Emperor Mod": "1",
+        "Warlord Mod": "1"
+    },
+    "Yuki Kaze": {
+        "Emperor Mod": "1",
+        "Warlord Mod": "1"
+    },
+    "Breir's Javelin": {
+        "Emperor Mod": "4",
+        "Warlord Mod": "6"
+    },
+    "Aconi's Wistfulness": {
+        "Emperor Mod": "7:5",
+        "Warlord Mod": "7:5"
+    },
+
+    "Desert Falcon": {
+        "Emperor Mod": "9",
+        "Warlord Mod": "14"
+    },
+    "Sixfinger": {
+        "Emperor Mod": "8",
+        "Warlord Mod": "13"
+    },
+    "Arizona": {
+        "Emperor Mod": "8",
+        "Warlord Mod": "13"
+    },
+    "P-20 Stormcaller": {
+        "Emperor Mod": "10",
+        "Warlord Mod": "16"
+    },
+    "Pocket Cannon": {
+        "Emperor Mod": "6",
+        "Warlord Mod": "11"
+    },
+    "Vunnaq": {
+        "Emperor Mod": "5",
+        "Warlord Mod": "10"
+    },
+    "Wildville '75": {
+        "Emperor Mod": "6",
+        "Warlord Mod": "11"
+    },
+    "Golden One": {
+        "Emperor Mod": "7",
+        "Warlord Mod": "12"
+    },
+    "Loveling<3": {
+        "Emperor Mod": "7",
+        "Warlord Mod": "12"
+    },
+    "Sling Shot": {
+        "Emperor Mod": "4",
+        "Warlord Mod": "33"
+    },
+    "Quickcleave": {
+        "Emperor Mod": "16",
+        "Warlord Mod": "21"
+    },
+    "Silver Old West": {
+        "Emperor Mod": "1",
+        "Warlord Mod": "1"
+    },
+    "Golden West": {
+        "Emperor Mod": "1",
+        "Warlord Mod": "1"
+    },
+    "H1 Goblin Hunter": {
+        "Emperor Mod": "5",
+        "Warlord Mod": "10"
+    },
+    "Eclipse": {
+        "Emperor Mod": "17",
+        "Warlord Mod": "26"
+    },
+    "Lonewolf": {
+        "Emperor Mod": "21",
+        "Warlord Mod": "27"
+    },
+    "Joker": {
+        "Emperor Mod": "25",
+        "Warlord Mod": "33"
+    },
+    "N1 Hidden Gun": {
+        "Emperor Mod": "18",
+        "Warlord Mod": "24"
+    },
+    "Forty Three Pistol": {
+        "Emperor Mod": "19",
+        "Warlord Mod": "25"
+    },
+    "P5 Auto Pistol": {
+        "Emperor Mod": "25",
+        "Warlord Mod": "33"
+    },
+    "Arda Sure Shot": {
+        "Emperor Mod": "16",
+        "Warlord Mod": "22"
+    },
+    "UZH Portable SMG": {
+        "Emperor Mod": "29",
+        "Warlord Mod": "37"
+    },
+    "Desertdog MMG": {
+        "Emperor Mod": "24",
+        "Warlord Mod": "32"
+    },
+    "Water pistol": {
+        "Emperor Mod": "22",
+        "Warlord Mod": "28"
+    },
+    "Desolation 432": {
+        "Emperor Mod": "14",
+        "Warlord Mod": "16"
+    },
+    "The Etna": {
+        "Emperor Mod": "12",
+        "Warlord Mod": "18"
+    },
+    "Aries": {
+        "Emperor Mod": "12",
+        "Warlord Mod": "13"
+    },
+    "Old West": {
+        "Emperor Mod": "1",
+        "Warlord Mod": "1"
+    },
+    "Vunnaq Fullauto": {
+        "Emperor Mod": "8",
+        "Warlord Mod": "13"
+    },
+    "Book of Mother Earth": {
+        "Emperor Mod": "29",
+        "Warlord Mod": "37"
+    },
+    "M-P4 Battlecraft Pistol": {
+        "Emperor Mod": "16",
+        "Warlord Mod": "36"
+    },
+    "TC5 Magicka": {
+        "Emperor Mod": "16",
+        "Warlord Mod": "24"
+    },
+    "G7 Self Defence": {
+        "Emperor Mod": "26",
+        "Warlord Mod": "34"
+    },
+    "Limewillow": {
+        "Emperor Mod": "22",
+        "Warlord Mod": "30"
+    },
+    "Red Mongoose": {
+        "Emperor Mod": "6",
+        "Warlord Mod": "7"
+    },
+    "Alpha Phaser": {
+        "Emperor Mod": "21",
+        "Warlord Mod": "23"
+    },
+    "Beta Phaser": {
+        "Emperor Mod": "21",
+        "Warlord Mod": "23"
+    },
+    "Old West FanningShot": {
+        "Emperor Mod": "1",
+        "Warlord Mod": "1"
+    },
+    "Golden West 2022": {
+        "Emperor Mod": "1",
+        "Warlord Mod": "1"
+    },
+    "Gadrec's Sawed-off": {
+        "Emperor Mod": "2",
+        "Warlord Mod": "5"
+    },
+    "P77 Quad Action": {
+        "Emperor Mod": "6",
+        "Warlord Mod": "7"
+    },
+    "Alien Phaser": {
+        "Emperor Mod": "20",
+        "Warlord Mod": "26"
+    },
+    "Modernbick Shotgun": {
+        "Emperor Mod": "7",
+        "Warlord Mod": "10"
+    },
+    "Karc-8": {
+        "Emperor Mod": "6",
+        "Warlord Mod": "11"
+    },
+    "Old West Triple Action": {
+        "Emperor Mod": "1",
+        "Warlord Mod": "1"
+    },
+    "GL1 Grenade Shooter": {
+        "Emperor Mod": "3",
+        "Warlord Mod": "5"
+    },
+    "GL4 Compact Launcher": {
+        "Emperor Mod": "2",
+        "Warlord Mod": "4"
+    },
+    "GL99 Micro Missile Launcher": {
+        "Emperor Mod": "2",
+        "Warlord Mod": "4"
+    },
+    "Wardrak Hand Cannon": {
+        "Emperor Mod": "3",
+        "Warlord Mod": "4"
+    },
+    "Golden TK": {
+        "Emperor Mod": "8",
+        "Warlord Mod": "13"
+    }
+}

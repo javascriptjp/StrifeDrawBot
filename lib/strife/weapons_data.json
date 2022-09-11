@@ -1,0 +1,1124 @@
+{
+    "Serenity Auto Rifle": {
+        "color": "#ffffff",
+        "bullet": 32
+    },
+    "F44 Dominance": {
+        "color": "#ffffff",
+        "bullet": 25
+    },
+    "Warmonger": {
+        "color": "#ffffff",
+        "bullet": 28
+    },
+    "WOUND Auto Rifle": {
+        "color": "#ffffff",
+        "bullet": 20
+    },
+    "AVG Auto Rifle": {
+        "color": "#ffffff",
+        "bullet": 25
+    },
+    "XR-4 Auto Rifle": {
+        "color": "#ffffff",
+        "bullet": 22
+    },
+    "MR-94 Gargoyle": {
+        "color": "#ffffff",
+        "bullet": 32
+    },
+    "M2002": {
+        "color": "#ffffff",
+        "bullet": 30
+    },
+    "UDON-SKP Automana": {
+        "color": "#55ffff",
+        "bullet": 30
+    },
+    "MR-4 Smokey": {
+        "color": "#ffffff",
+        "bullet": 36
+    },
+    "MR-12 Automana": {
+        "color": "#ffffff",
+        "bullet": 30
+    },
+    "Harbinger Auto Rifle": {
+        "color": "#ffffff",
+        "bullet": 30
+    },
+    "JAME Manaburst Rifle": {
+        "color": "#ffffff",
+        "bullet": 24
+    },
+    "MR-52 Cyclone": {
+        "color": "#ffffff",
+        "bullet": 30
+    },
+    "FAZZI Automana": {
+        "color": "#ffffff",
+        "bullet": 30
+    },
+    "Gerard Auto Rifle": {
+        "color": "#ffffff",
+        "bullet": 22
+    },
+    "Hopekeeper": {
+        "color": "#ffffff",
+        "bullet": 25
+    },
+    "Twinvision Rifle": {
+        "color": "#ffffff",
+        "bullet": 25
+    },
+    "Lexxi Burst Rifle": {
+        "color": "#ffffff",
+        "bullet": 24
+    },
+    "GEO Mana Rifle": {
+        "color": "#ffffff",
+        "bullet": 30
+    },
+    "Cilzret Fullauto": {
+        "color": "#ffffff",
+        "bullet": 18
+    },
+    "MRC-1 Silvermist": {
+        "color": "#ffffff",
+        "bullet": 26
+    },
+    "AK Rifle": {
+        "color": "#ffffff",
+        "bullet": 30
+    },
+    "Type 89": {
+        "color": "#ffffff",
+        "bullet": 20
+    },
+    "Starfaller": {
+        "color": "#55ffff",
+        "bullet": 30
+    },
+    "A-12 Plastic Rifle": {
+        "color": "#55ffff",
+        "bullet": 38
+    },
+    "The Shooting Star": {
+        "color": "#55ff55",
+        "bullet": 32
+    },
+    "NURF Water Rifle": {
+        "color": "#55ff55",
+        "bullet": 24
+    },
+    "Ouroboros AR": {
+        "color": "#ffaa00",
+        "bullet": 26
+    },
+    "MR-89 Doubletail": {
+        "color": "#55ff55",
+        "bullet": 24
+    },
+    "Tyrant Automana": {
+        "color": "#ffffff",
+        "bullet": 20
+    },
+    "MDR": {
+        "color": "#ffffff",
+        "bullet": 50
+    },
+    "Hamlock AR": {
+        "color": "#55ff55",
+        "bullet": 24
+    },
+    "Warewolf AR": {
+        "color": "#55ff55",
+        "bullet": 20
+    },
+    "Divine Long Bow": {
+        "color": "#ffaa00",
+        "bullet": 22
+    },
+    "GROUZA": {
+        "color": "#55ff55",
+        "bullet": 30
+    },
+    "VK-74 FLETLINE": {
+        "color": "#55ff55",
+        "bullet": 20
+    },
+    "Golden AK": {
+        "color": "#ffaa00",
+        "bullet": 30
+    },
+
+    "Windmaker": {
+        "color": "#ffffff",
+        "bullet": 25
+    },
+    "FW-5 Azuris PDW": {
+        "color": "#ffffff",
+        "bullet": 40
+    },
+    "XS-5 Nether Beatle": {
+        "color": "#ffffff",
+        "bullet": 30
+    },
+    "Rogue's Shooter": {
+        "color": "#ffffff",
+        "bullet": 42
+    },
+    "Victory": {
+        "color": "#ffffff",
+        "bullet": 35
+    },
+    "Anarchy": {
+        "color": "#ffffff",
+        "bullet": 37
+    },
+    "Envy": {
+        "color": "#ffffff",
+        "bullet": 33
+    },
+    "Nox SMG": {
+        "color": "#ffffff",
+        "bullet": 32
+    },
+    "XS-21 Pandora PDW": {
+        "color": "#ffffff",
+        "bullet": 45
+    },
+    "P9000 Mana PDW": {
+        "color": "#ffffff",
+        "bullet": 60
+    },
+    "GG36 SMG": {
+        "color": "#ffffff",
+        "bullet": 40
+    },
+    "Type6 Hicycle PDW": {
+        "color": "#ffffff",
+        "bullet": 65
+    },
+    "Lynn SMG": {
+        "color": "#ffffff",
+        "bullet": 18
+    },
+    "Gabriel PDW": {
+        "color": "#ffffff",
+        "bullet": 45
+    },
+    "Hystis 535": {
+        "color": "#ffffff",
+        "bullet": 46
+    },
+    "K92 Tiamat": {
+        "color": "#ffffff",
+        "bullet": 20
+    },
+    "H.E.A.T 5": {
+        "color": "#ffffff",
+        "bullet": 60
+    },
+    "PP90N1 Dummy's": {
+        "color": "#55ffff",
+        "bullet": 65
+    },
+    "K95 Basilisk": {
+        "color": "#55ffff",
+        "bullet": 22
+    },
+    "VMT-2 Mice SMG": {
+        "color": "#55ffff",
+        "bullet": 52
+    },
+    "Brigit, the bringer of flame": {
+        "color": "#ff55ff",
+        "bullet": 111
+    },
+    "X-1 Ammit": {
+        "color": "#ffaa00",
+        "bullet": 60
+    },
+    "The Bumblebee": {
+        "color": "#55ff55",
+        "bullet": 38
+    },
+    "Doorknocker": {
+        "color": "#ffffff",
+        "bullet": 42
+    },
+    "Silent Treatment": {
+        "color": "#ffffff",
+        "bullet": 35
+    },
+    "Thousand Cut": {
+        "color": "#55ff55",
+        "bullet": 65
+    },
+    "Brawler Burst PDW": {
+        "color": "#55ff55",
+        "bullet": 20
+    },
+    
+    "Ogrehunt": {
+        "color": "#ffffff",
+        "bullet": 9
+    },
+    "Crimson": {
+        "color": "#ffffff",
+        "bullet": 9
+    },
+    "Spacemaker": {
+        "color": "#ffffff",
+        "bullet": 10
+    },
+    "Ghahr's Shotgun": {
+        "color": "#ffffff",
+        "bullet": 5
+    },
+    "E420 Hydra": {
+        "color": "#ffffff",
+        "bullet": 2
+    },
+    "Troublemaker Shotgun": {
+        "color": "#ffffff",
+        "bullet": 4
+    },
+    "F-85 The Raven": {
+        "color": "#ffffff",
+        "bullet": 3
+    },
+    "M890 Beanshot": {
+        "color": "#55ff55",
+        "bullet": 9
+    },
+    "Sabertooth Shotgun": {
+        "color": "#ffffff",
+        "bullet": 7
+    },
+    "Howard's Double Barrel": {
+        "color": "#ffffff",
+        "bullet": 1
+    },
+    "Lios Double Barrel": {
+        "color": "#ffffff",
+        "bullet": 1
+    },
+    "The Extra": {
+        "color": "#ffffff",
+        "bullet": 20
+    },
+    "SG80 Evicserate": {
+        "color": "#55ff55",
+        "bullet": 6
+    },
+    "Ogrehunt Slug": {
+        "color": "#55ff55",
+        "bullet": 9
+    },
+    "Pianis Mana Splasher": {
+        "color": "#ffffff",
+        "bullet": 12
+    },
+    "The Thunder": {
+        "color": "#ffffff",
+        "bullet": 5
+    },
+    "K-RAR Mana Splasher": {
+        "color": "#ffffff",
+        "bullet": 8
+    },
+    "Lusha's Harp": {
+        "color": "#55ff55",
+        "bullet": 12
+    },
+    "Gauss Rifle": {
+        "color": "#ffffff",
+        "bullet": 3
+    },
+    "Pianis Mana Splasher Slug": {
+        "color": "#55ff55",
+        "bullet": 12
+    },
+    "Black Thunder": {
+        "color": "#55ff55",
+        "bullet": 4
+    },
+    "Blondie": {
+        "color": "#55ff55",
+        "bullet": 8
+    },
+
+    "XL9 Mozer": {
+        "color": "#ffffff",
+        "bullet": 65
+    },
+    "TT66 Doom LMG": {
+        "color": "#ffffff",
+        "bullet": 80
+    },
+    "MK4 Machine Gun": {
+        "color": "#ffffff",
+        "bullet": 100
+    },
+    "M757 Cleaner LMG": {
+        "color": "#ffffff",
+        "bullet": 65
+    },
+    "MG-80 Heavy Machinegun": {
+        "color": "#ffffff",
+        "bullet": 65
+    },
+    "M9190 Beehive": {
+        "color": "#ffffff",
+        "bullet": 80
+    },
+    "MK18 Leaf Cleaner": {
+        "color": "#ffffff",
+        "bullet": 75
+    },
+    "MK7 Baretooth": {
+        "color": "#ffffff",
+        "bullet": 75
+    },
+    "TT4 Nefaris LMG": {
+        "color": "#ffffff",
+        "bullet": 50
+    },
+    "Gorgon 114 LMG": {
+        "color": "#ffffff",
+        "bullet": 150
+    },
+    "PBP-14": {
+        "color": "#ffffff",
+        "bullet": 120
+    },
+    "Brutus MG": {
+        "color": "#ffffff",
+        "bullet": 85
+    },
+    "Silverstein MG": {
+        "color": "#ffaa00",
+        "bullet": 60
+    },
+    "M666 Spatfire": {
+        "color": "#55ff55",
+        "bullet": 35
+    },
+    "GILT Hypercycle LMG": {
+        "color": "#55ff55",
+        "bullet": 60
+    },
+
+    "Mellowwood": {
+        "color": "#ffffff",
+        "bullet": 6
+    },
+    "Moon Night": {
+        "color": "#ffffff",
+        "bullet": 11
+    },
+    "Barnett the Deathbringer": {
+        "color": "#ffffff",
+        "bullet": 5
+    },
+    "ENT Sniper Rifle": {
+        "color": "#ffffff",
+        "bullet": 4
+    },
+    "Shadowvein": {
+        "color": "#ffffff",
+        "bullet": 4
+    },
+    "Endseeker": {
+        "color": "#ffffff",
+        "bullet": 6
+    },
+    "Knightfall": {
+        "color": "#ffffff",
+        "bullet": 5
+    },
+    "Ironbark Sniper Rifle": {
+        "color": "#ffffff",
+        "bullet": 4
+    },
+    "Syndra's Bow": {
+        "color": "#ffaa00",
+        "bullet": 4
+    },
+    "Minerva Anti-Matter Rifle": {
+        "color": "#ffffff",
+        "bullet": 15
+    },
+    "UDED Rail Rifle": {
+        "color": "#ffffff",
+        "bullet": 5
+    },
+    "Rabbit Silencer": {
+        "color": "#ffffff",
+        "bullet": 7
+    },
+    "EFX Photon Compressor": {
+        "color": "#ffffff",
+        "bullet": 3
+    },
+    "Flying Serpent": {
+        "color": "#ffffff",
+        "bullet": 12
+    },
+    "Colubrid .75 CAL": {
+        "color": "#ffffff",
+        "bullet": 3
+    },
+    "Hunting Rifle": {
+        "color": "#ffffff",
+        "bullet": 3
+    },
+    "Lisrithe, Life and the Eternal Rest": {
+        "color": "#ff55ff",
+        "bullet": 3
+    },
+    "Lisrithe's Wish": {
+        "color": "#ff55ff",
+        "bullet": 3
+    },
+    "Devil's Whisper": {
+        "color": "#55ff55",
+        "bullet": 7
+    },
+    "Phobia SR-22": {
+        "color": "#ffaa00",
+        "bullet": 20
+    },
+    "Pierce Sniper Rifle": {
+        "color": "#55ff55",
+        "bullet": 3
+    },
+    "Trueflight Bow": {
+        "color": "#55ff55",
+        "bullet": 1
+    },
+    "The Zomzeozy": {
+        "color": "#55ff55",
+        "bullet": 1
+    },
+    "Wingmen": {
+        "color": "#55ff55",
+        "bullet": 4
+    },
+    "Car98k": {
+        "color": "#55ff55",
+        "bullet": 5
+    },
+    "Skullcrusher": {
+        "color": "#ffffff",
+        "bullet": 8
+    },
+    "RSK Sniper Rifle": {
+        "color": "#ffffff",
+        "bullet": 7
+    },
+    "M850 Smogg Sniper Rifle": {
+        "color": "#ffffff",
+        "bullet": 6
+    },
+    "PMG Hekate II": {
+        "color": "#ffffff",
+        "bullet": 7
+    },
+
+    "Third Eye DMR": {
+        "color": "#ffffff",
+        "bullet": 15
+    },
+    "Horizon Rifle": {
+        "color": "#ffaa00",
+        "bullet": 15
+    },
+    "Graveless DMR": {
+        "color": "#ffffff",
+        "bullet": 20
+    },
+    "Coldfang DMR": {
+        "color": "#ffffff",
+        "bullet": 12
+    },
+    "Helheim DMR": {
+        "color": "#55ffff",
+        "bullet": 22
+    },
+    "Mark-7 EBR": {
+        "color": "#ffffff",
+        "bullet": 12
+    },
+
+    "Shepherd 055": {
+        "color": "#ffffff",
+        "bullet": [32, 1]
+    },
+    "Fiendsbreath Carbine": {
+        "color": "#ffffff",
+        "bullet": [25, 3]
+    },
+    "Gritt Carbine": {
+        "color": "#ffffff",
+        "bullet": [28, 1]
+    },
+    "CARB-7": {
+        "color": "#ffffff",
+        "bullet": [26, 10]
+    },
+    "Maelstrom Carbine": {
+        "color": "#ffffff",
+        "bullet": [24, 1]
+    },
+    "Bayou Short Rifle": {
+        "color": "#ffffff",
+        "bullet": [32, 4]
+    },
+    "ECR-11 Carbine": {
+        "color": "#ffffff",
+        "bullet": [32, 10]
+    },
+    "Hellhound Short Rifle": {
+        "color": "#ffffff",
+        "bullet": [26, 3]
+    },
+    "Varg G5": {
+        "color": "#ffffff",
+        "bullet": [36, 1]
+    },
+    "Chimaera CQB": {
+        "color": "#55ffff",
+        "bullet": [26, 20]
+    },
+
+    "Kali Magic Launcher": {
+        "color": "#ffffff",
+        "bullet": 1
+    },
+    "MK20 Mana Waster": {
+        "color": "#ffffff",
+        "bullet": 300
+    },
+    "Trauma": {
+        "color": "#ffffff",
+        "bullet": 12
+    },
+    "GL90 Warbringer": {
+        "color": "#ffffff",
+        "bullet": 5
+    },
+    "HLL Magic Launcher": {
+        "color": "#ffffff",
+        "bullet": 1
+    },
+    "Love Launcher": {
+        "color": "#55ffff",
+        "bullet": 1
+    },
+    "F52 Ifrit Pigcooker": {
+        "color": "#ffffff",
+        "bullet": 200
+    },
+    "F60 Ignis Firestarter": {
+        "color": "#ffffff",
+        "bullet": 100
+    },
+    "Brugo Homing Missile": {
+        "color": "#ffffff",
+        "bullet": 4
+    },
+    "S.O.L Rocket Launcher": {
+        "color": "#ffffff",
+        "bullet": 4
+    },
+    "Ragnis Rocket Launcher": {
+        "color": "#ffffff",
+        "bullet": 1
+    },
+    "GL3 Handy Mortar": {
+        "color": "#ffffff",
+        "bullet": 8
+    },
+    "Keg Bomb": {
+        "color": "#ffaa00",
+        "bullet": 8
+    },
+    "Rania's Crossbow": {
+        "color": "#ffffff",
+        "bullet": 2
+    },
+    "Vely's Party Cracker": {
+        "color": "#ffffff",
+        "bullet": 3
+    },
+    "Rania's Javelin": {
+        "color": "#ffffff",
+        "bullet": 3
+    },
+    "T-X Homing Nuke": {
+        "color": "#ffffff",
+        "bullet": 2
+    },
+    "AWR Gatling Laser": {
+        "color": "#ffffff",
+        "bullet": 150
+    },
+    "T-X01 Anti-matter Missile": {
+        "color": "#ffffff",
+        "bullet": 1
+    },
+    "Golembreaker": {
+        "color": "#ffffff",
+        "bullet": 1
+    },
+    "Rubber Shuriken": {
+        "color": "#ffffff",
+        "bullet": 1
+    },
+    "The Bazooka": {
+        "color": "#ffffff",
+        "bullet": 3
+    },
+    "Princess Crossbow": {
+        "color": "#55ff55",
+        "bullet": 1
+    },
+    "Rania's Chocolate Javelin": {
+        "color": "#55ff55",
+        "bullet": 3
+    },
+    "Vateth Homing Missile": {
+        "color": "#ffaa00",
+        "bullet": 10
+    },
+    "Kerkox Mana Scroller": {
+        "color": "#ffaa00",
+        "bullet": 6
+    },
+    "Jikill Sonic Launcher": {
+        "color": "#ffffff",
+        "bullet": 6
+    },
+    "The Eliminator": {
+        "color": "#ffffff",
+        "bullet": 4
+    },
+    "PKB-8004": {
+        "color": "#55ff55",
+        "bullet": 12
+    },
+    "GL 88 Carpet Bomber": {
+        "color": "#ffaa00",
+        "bullet": 6
+    },
+    "Hi-K0 Launcher": {
+        "color": "#55ff55",
+        "bullet": 5
+    },
+    "Hi-K0 Launcher 2021": {
+        "color": "#55ff55",
+        "bullet": 1
+    },
+    "Tempest Grenade Launcher": {
+        "color": "#ffffff",
+        "bullet": 7
+    },
+    "The Deathmachine": {
+        "color": "#ffffff",
+        "bullet": 1
+    },
+    "Spear of Judgement": {
+        "color": "#ffaa00",
+        "bullet": 3
+    },
+    "TN-43 Remote TNT": {
+        "color": "#ffaa00",
+        "bullet": 8
+    },
+
+    "Staff of Cursing": {
+        "color": "#ffffff",
+        "bullet": 3
+    },
+    "Staff of Glorious": {
+        "color": "#ffffff",
+        "bullet": 1
+    },
+    "Arcane Bomb": {
+        "color": "#ffffff",
+        "bullet": 5
+    },
+    "Worldender": {
+        "color": "#ffffff",
+        "bullet": 3
+    },
+    "Pumpkin Wand": {
+        "color": "#ffffff",
+        "bullet": 5
+    },
+    "Staff of Eda": {
+        "color": "#ffffff",
+        "bullet": 3
+    },
+    "Staff of Vesta": {
+        "color": "#55ffff",
+        "bullet": 3
+    },
+    "Rod": {
+        "color": "#ffffff",
+        "bullet": 1
+    },
+    "Staff of Sorrow": {
+        "color": "#ffaa00",
+        "bullet": 6
+    },
+    "Nahhra, Devourer of Worlds": {
+        "color": "#ff55ff",
+        "bullet": 20
+    },
+    "Aconi, Fifth Element of the Arctic": {
+        "color": "#ff55ff",
+        "bullet": 7
+    },
+    "Staff of Zisca": {
+        "color": "#55ffff",
+        "bullet": 20
+    },
+    "Phantom Bolt": {
+        "color": "#ffffff",
+        "bullet": 1
+    },
+    "Staff of Release": {
+        "color": "#ffffff",
+        "bullet": 1
+    },
+    "Staff of Spirit": {
+        "color": "#ffffff",
+        "bullet": 1
+    },
+    "Grim Reaper": {
+        "color": "#55ffff",
+        "bullet": 24
+    },
+    "Staff of Barrage": {
+        "color": "#ffffff",
+        "bullet": 20
+    },
+    "Staff of Elna": {
+        "color": "#ffffff",
+        "bullet": 1
+    },
+    "Kyugetu": {
+        "color": "#55ff55",
+        "bullet": 1
+    },
+    "Yuki Kaze": {
+        "color": "#55ff55",
+        "bullet": 1
+    },
+    "Breir's Javelin": {
+        "color": "#55ff55",
+        "bullet": 3
+    },
+    "Aconi's Wistfulness": {
+        "color": "#ff55ff",
+        "bullet": [7, 5]
+    },
+
+    "Desert Falcon": {
+        "color": "#ffffff",
+        "bullet": 7
+    },
+    "Sixfinger": {
+        "color": "#ffffff",
+        "bullet": 6
+    },
+    "Arizona": {
+        "color": "#ffffff",
+        "bullet": 6
+    },
+    "P-20 Stormcaller": {
+        "color": "#ffffff",
+        "bullet": 8
+    },
+    "Pocket Cannon": {
+        "color": "#ffffff",
+        "bullet": 4
+    },
+    "Vunnaq": {
+        "color": "#ffffff",
+        "bullet": 3
+    },
+    "Wildville '75": {
+        "color": "#ffffff",
+        "bullet": 4
+    },
+    "Golden One": {
+        "color": "#55ff55",
+        "bullet": 5
+    },
+    "Loveling<3": {
+        "color": "#55ff55",
+        "bullet": 5
+    },
+    "Sling Shot": {
+        "color": "#ffffff",
+        "bullet": 3
+    },
+    "Quickcleave": {
+        "color": "#55ff55",
+        "bullet": 14
+    },
+    "Silver Old West": {
+        "color": "#ffffff",
+        "bullet": 1
+    },
+    "Golden West": {
+        "color": "#55ff55",
+        "bullet": 1
+    },
+    "H1 Goblin Hunter": {
+        "color": "#ffaa00",
+        "bullet": 3
+    },
+    "Eclipse": {
+        "color": "#ffffff",
+        "bullet": 12
+    },
+    "Lonewolf": {
+        "color": "#ffffff",
+        "bullet": 17
+    },
+    "Joker": {
+        "color": "#ffffff",
+        "bullet": 21
+    },
+    "N1 Hidden Gun": {
+        "color": "#ffffff",
+        "bullet": 14
+    },
+    "Forty Three Pistol": {
+        "color": "#ffffff",
+        "bullet": 15
+    },
+    "P5 Auto Pistol": {
+        "color": "#ffffff",
+        "bullet": 21
+    },
+    "Arda Sure Shot": {
+        "color": "#ffffff",
+        "bullet": 12
+    },
+    "UZH Portable SMG": {
+        "color": "#ffffff",
+        "bullet": 25
+    },
+    "Desertdog MMG": {
+        "color": "#ffaa00",
+        "bullet": 20
+    },
+    "Water pistol": {
+        "color": "#ffffff",
+        "bullet": 18
+    },
+    "Desolation 432": {
+        "color": "#55ff55",
+        "bullet": 10
+    },
+    "The Etna": {
+        "color": "#ffaa00",
+        "bullet": 8
+    },
+    "Aries": {
+        "color": "#55ff55",
+        "bullet": 8
+    },
+    "Old West": {
+        "color": "#ffffff",
+        "bullet": 1
+    },
+    "Vunnaq Fullauto": {
+        "color": "#ffffff",
+        "bullet": 6
+    },
+    "Book of Mother Earth": {
+        "color": "#ffaa00",
+        "bullet": 25
+    },
+    "M-P4 Battlecraft Pistol": {
+        "color": "#ffffff",
+        "bullet": 12
+    },
+    "TC5 Magicka": {
+        "color": "#ffffff",
+        "bullet": 12
+    },
+    "G7 Self Defence": {
+        "color": "#ffffff",
+        "bullet": 22
+    },
+    "Limewillow": {
+        "color": "#ffffff",
+        "bullet": 18
+    },
+    "Red Mongoose": {
+        "color": "#ffffff",
+        "bullet": 4
+    },
+    "Alpha Phaser": {
+        "color": "#55ff55",
+        "bullet": 18
+    },
+    "Beta Phaser": {
+        "color": "#55ff55",
+        "bullet": 18
+    },
+    "Old West FanningShot": {
+        "color": "#ffffff",
+        "bullet": 1
+    },
+    "Golden West 2022": {
+        "color": "#55ff55",
+        "bullet": 1
+    },
+    "Gadrec's Sawed-off": {
+        "color": "#ffffff",
+        "bullet": 1
+    },
+    "P77 Quad Action": {
+        "color": "#ffffff",
+        "bullet": 4
+    },
+    "Alien Phaser": {
+        "color": "#55ffff",
+        "bullet": 16
+    },
+    "Modernbick Shotgun": {
+        "color": "#55ff55",
+        "bullet": 3
+    },
+    "Karc-8": {
+        "color": "#55ff55",
+        "bullet": 4
+    },
+    "Old West Triple Action": {
+        "color": "#ffffff",
+        "bullet": 1
+    },
+    "GL1 Grenade Shooter": {
+        "color": "#ffffff",
+        "bullet": 2
+    },
+    "GL4 Compact Launcher": {
+        "color": "#ffffff",
+        "bullet": 1
+    },
+    "GL99 Micro Missile Launcher": {
+        "color": "#ffaa00",
+        "bullet": 1
+    },
+    "Wardrak Hand Cannon": {
+        "color": "#55ffff",
+        "bullet": 1
+    },
+    "Golden TK": {
+        "color": "#ffffff",
+        "bullet": 6
+    },
+
+    "Manablade": {
+        "color": "#ffffff",
+        "bullet": null
+    },
+    "Shadowfang": {
+        "color": "#ffffff",
+        "bullet": null
+    },
+    "Bloody Axe": {
+        "color": "#ffffff",
+        "bullet": null
+    },
+    "Gravity Axe": {
+        "color": "#ffffff",
+        "bullet": null
+    },
+    "Broken Dahlia": {
+        "color": "#ffffff",
+        "bullet": null
+    },
+    "Windsong Polearm": {
+        "color": "#ffffff",
+        "bullet": null
+    },
+    "Sword of Faith": {
+        "color": "#ffffff",
+        "bullet": null
+    },
+    "Nyr, Thunderblade of Oath Keeper": {
+        "color": "#ff55ff",
+        "bullet": null
+    },
+    "Az'gan, The matter of darkness": {
+        "color": "#ff55ff",
+        "bullet": null
+    },
+    "Mine Uchi": {
+        "color": "#ffffff",
+        "bullet": null
+    },
+    "The Brute": {
+        "color": "#55ff55",
+        "bullet": null
+    },
+    "Witch's Broom": {
+        "color": "#55ff55",
+        "bullet": null
+    },
+    "kanabou": {
+        "color": "#55ff55",
+        "bullet": null
+    },
+    "SA-SA": {
+        "color": "#55ff55",
+        "bullet": null
+    },
+    "The Punisher": {
+        "color": "#55ff55",
+        "bullet": null
+    },
+    "StarBlade": {
+        "color": "#55ff55",
+        "bullet": null
+    },
+    "Aodhlugh, Creator of Volcanoes": {
+        "color": "#ff55ff",
+        "bullet": null
+    },
+    "Vor'arrag, Sleeper of Thousand souls": {
+        "color": "#ff55ff",
+        "bullet": null
+    },
+    "Raduer, Sleeper of Thousand souls": {
+        "color": "#ff55ff",
+        "bullet": null
+    },
+    "Zan Getsu": {
+        "color": "#55ff55",
+        "bullet": null
+    },
+    "Xeg'then, Initiator of Sundown": {
+        "color": "#ff55ff",
+        "bullet": null
+    },
+    "Cultist Knife": {
+        "color": "#55ff55",
+        "bullet": null
+    },
+    "Ninja Kunai": {
+        "color": "#ffffff",
+        "bullet": 20
+    }
+}

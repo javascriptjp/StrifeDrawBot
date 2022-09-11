@@ -1,0 +1,85 @@
+{
+    "Arcane Brilliance": {
+        "1": "#ffffff",
+        "2": "#00aaaa",
+        "3": "#aa00aa"
+    },
+    "Death's Ruin": {
+        "1": "#ffffff",
+        "2": "#00aaaa",
+        "3": "#aa00aa"
+    },
+    "Sunfire": {
+        "1": "#ffffff",
+        "2": "#00aaaa",
+        "3": "#aa00aa"
+    },
+    "Northern Wind": {
+        "1": "#ffffff",
+        "2": "#00aaaa",
+        "3": "#aa00aa"
+    },
+    "Shadow Strike": {
+        "1": "#ffffff",
+        "2": "#00aaaa",
+        "3": "#aa00aa"
+    },
+
+    "Shield Wall": {
+        "1": "#ffffff",
+        "2": "#00aaaa",
+        "3": "#aa00aa"
+    },
+    "Victory Rush": {
+        "1": "#ffffff",
+        "2": "#00aaaa",
+        "3": "#aa00aa"
+    },
+    "Night Stalker": {
+        "1": "#ffffff",
+        "2": "#00aaaa",
+        "3": "#aa00aa"
+    },
+    "Last Stand": {
+        "1": "#ffffff",
+        "2": "#00aaaa",
+        "3": "#aa00aa"
+    },
+    "Mana Fountain": {
+        "1": "#ffffff",
+        "2": "#00aaaa",
+        "3": "#aa00aa"
+    },
+    "Zephyr's Blessing": {
+        "1": "#ffffff",
+        "2": "#00aaaa",
+        "3": "#aa00aa"
+    },
+
+    "Flexible Resonance": {
+        "1": "#ffffff",
+        "2": "#00aaaa",
+        "3": "#aa00aa"
+    },
+    "Siphon Life": {
+        "1": "#ffffff",
+        "2": "#00aaaa",
+        "3": "#aa00aa"
+    },
+    "Phoenix Flame": {
+        "1": "#ffffff",
+        "2": "#00aaaa",
+        "3": "#aa00aa"
+    },
+    "Demon Power": {
+        "1": "#ffffff",
+        "2": "#00aaaa",
+        "3": "#aa00aa"
+    },
+
+    "Evershade": {
+        "1": "#ffffff",
+        "2": "#00aaaa",
+        "3": "#aa00aa"
+    }
+}

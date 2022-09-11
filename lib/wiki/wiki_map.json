@@ -1,0 +1,47 @@
+{
+    "https://seesaawiki.jp/thewar2/d/Assault%20Rifle": [
+        "11",
+        "14"
+    ],
+    "https://seesaawiki.jp/thewar2/d/SMG": [
+        "8"
+    ],
+    "https://seesaawiki.jp/thewar2/d/Shotgun": [
+        "14",
+        "17",
+        "21",
+        "24"
+    ],
+    "https://seesaawiki.jp/thewar2/d/LMG": [
+        "8",
+        "10"
+    ],
+    "https://seesaawiki.jp/thewar2/d/Sniper%20Rifle": [
+        "16",
+        "18"
+    ],
+    "https://seesaawiki.jp/thewar2/d/Carbine": [
+        "12"
+    ],
+    "https://seesaawiki.jp/thewar2/d/Special": [
+        "10",
+        "13"
+    ],
+    "https://seesaawiki.jp/thewar2/d/Staves": [
+        "8",
+        "11",
+        "13"
+    ],
+    "https://seesaawiki.jp/thewar2/d/Secondary": [
+        "8",
+        "11",
+        "14",
+        "17",
+        "20",
+        "23"
+    ],
+    "https://seesaawiki.jp/thewar2/d/Melee": [
+        "8",
+        "9"
+    ]
+}

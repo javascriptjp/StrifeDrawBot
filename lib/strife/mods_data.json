@@ -1,0 +1,46 @@
+{
+    "Hunter Mod": {
+        "color": "#ffffff"
+    },
+    "Marksman Mod": {
+        "color": "#ffffff"
+    },
+    "Raider Mod": {
+        "color": "#ffffff"
+    },
+    "Ranger Mod": {
+        "color": "#ffffff"
+    },
+    "Warrior Mod": {
+        "color": "#ffffff"
+    },
+
+    "Champion Mod": {
+        "color": "#ff5555"
+    },
+    "Deadeye Mod": {
+        "color": "#ff5555"
+    },
+    "Gladiator Mod": {
+        "color": "#ff5555"
+    },
+    "Knight Mod": {
+        "color": "#ff5555"
+    },
+    "Sentinel Mod": {
+        "color": "#ff5555"
+    },
+    "Stalker Mod": {
+        "color": "#ff5555"
+    },
+
+    "Emperor Mod": {
+        "color": "#FFAA00"
+    },
+    "Monarch Mod": {
+        "color": "#FFAA00"
+    },
+    "Warlord Mod": {
+        "color": "#FFAA00"
+    }
+}
