@@ -1,9 +1,8 @@
 require("dotenv").config()
+console.log("[+] launching bot")
 const {Client, GatewayIntentBits:{Guilds, GuildMessages, MessageContent}} = require("discord.js")
 const fs = require("fs")
-const options = {
-    intents: [Guilds, GuildMessages, MessageContent],
-}
+const options = {intents: [Guilds, GuildMessages, MessageContent]}
 const client = new Client(options)
 const commands = {}
 client.on("ready",async () => {
@@ -19,7 +18,7 @@ client.on("ready",async () => {
     }
     for (const commandName in commands) data.push(commands[commandName].data)
     await client.application.commands.set(data);
-    console.log("online")
+    console.log("[+] bot online!")
 })
 
 client.on("interactionCreate", async (interaction) => {
