@@ -7,6 +7,10 @@ const options = {
 const client = new Client(options)
 const commands = {}
 client.on("ready",async () => {
+    await client.guilds.cache.forEach(i=>{
+        const guild = client.guilds.cache.get(i.id)
+        guild.commands.set([])
+    })
     const commandFiles = fs.readdirSync('./commands').filter(file => file.endsWith('.js'))
     const data = []
     for (const file of commandFiles) {
@@ -31,5 +35,4 @@ client.on("interactionCreate", async (interaction) => {
         })
     }
 })
-
 client.login(process.env.token)
